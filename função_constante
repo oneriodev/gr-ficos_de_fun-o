@@ -1,8 +1,3 @@
-# gráficos_de_função
-Neste repositório eu utilizo a biblioteca numpy e matplotlibe para geração de análise de gráficos
-
-Função contante
-
 import numpy as np
 import matplotlib.pyplot as plt
 
